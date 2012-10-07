@@ -1,4 +1,4 @@
-Jimmy-scDict
+JimmyDict
 ============
 
 Jimmy's Dict
